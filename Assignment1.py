@@ -1,6 +1,6 @@
 """
 ----------------------------------------------------
- COMPUT 175 ASSIGNMENT 1
+ COMPUT 175 ASSIGNMENT 
 University of Alberta
  Author: Jeremy Ajoku
  Sales Data Analysis
